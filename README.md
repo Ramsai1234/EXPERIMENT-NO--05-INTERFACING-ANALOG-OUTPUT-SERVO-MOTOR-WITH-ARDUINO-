@@ -68,6 +68,7 @@ CIRCUIT DIAGRAM
 
 
 ### PROGRAM :
+~~~
 
 #include<Servo.h>
 Servo s1;
@@ -87,6 +88,7 @@ void loop()
     delay(15);
 }
 }
+~~~
 ### output:
 ![github logo](exp5.png)
 
