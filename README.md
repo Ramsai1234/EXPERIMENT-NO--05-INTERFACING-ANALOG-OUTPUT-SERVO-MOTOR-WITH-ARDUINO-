@@ -94,4 +94,4 @@ void loop()
 
 
 ### RESULTS: 
-Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
+Thus, interfacing of analog output is completed sucessfully with thinkercad software.
